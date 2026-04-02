@@ -1,4 +1,4 @@
-student_id	experiment_score	temperature	humidity
+student_id,experiment_score,temperature,humidity
 S01	85	22	45
 S02	92	24	47
 S03		25	
