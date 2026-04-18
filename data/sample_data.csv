@@ -1,0 +1,11 @@
+student_id	experiment_score	temperature	humidity
+S01	85	22	45
+S02	92	24	47
+S03		25	
+S04	75	22.5	47
+S05	78		48
+S06	69	23	
+S07		30	49
+S08	85	28	
+S09	90		45
+S10	88	29	48
